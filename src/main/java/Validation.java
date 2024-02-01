@@ -14,6 +14,7 @@ public class Validation {
         brackets.put('"', '"');
         brackets.put(']', '[');
         brackets.put('}', '{');
+
         Deque<Character> stack = new LinkedList<>();
         for (Character c : bracketString.toCharArray()) {
             if (brackets.containsValue(c)) {

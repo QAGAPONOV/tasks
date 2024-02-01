@@ -1,3 +1,8 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(ìÌÎ8è‚ççÓ1
-G	java:S106"+Replace this use of System.out by a logger.(ÎçÑë8é‚ççÓ1
+]	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8×ëÉÍÕ1
+G	java:S106%"+Replace this use of System.out by a logger.(ìÌÎ8ÚëÉÍÕ1
+G	java:S106&"+Replace this use of System.out by a logger.(ÎçÑë8ÚëÉÍÕ1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ÚëÉÍÕ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÚëÉÍÕ1
