@@ -1,9 +1,7 @@
 
-X	java:S125"<This block of commented-out lines of code should be removed.(éßØ’8«ìïÖ1
-X	java:S125"<This block of commented-out lines of code should be removed.(©Öº”8¬ìïÖ1
-g
-java:S1854."ERemove this useless assignment to local variable "listOutDublicates".(ãÎİŞşÿÿÿÿ8¬ìïÖ1
-]	java:S125+"<This block of commented-out lines of code should be removed.(şˆ³Òüÿÿÿÿ8”ªØŸÖ1
-X
-java:S1481."6Remove this unused "listOutDublicates" local variable.(ãÎİŞşÿÿÿÿ8®ìïÖ1
-G	java:S106/"+Replace this use of System.out by a logger.(ğí¨°8®ìïÖ1
+X	java:S125"<This block of commented-out lines of code should be removed.(éßØ’8¹ŒÒ¥Ö1
+X	java:S125"<This block of commented-out lines of code should be removed.(©Öº”8¹ŒÒ¥Ö1
+X	java:S125"<This block of commented-out lines of code should be removed.(¤İ•‚8ƒà¥Ö1
+G	java:S1061"+Replace this use of System.out by a logger.(Ä—·³8»ŒÒ¥Ö1
+G	java:S1064"+Replace this use of System.out by a logger.(ğí¨°8»ŒÒ¥Ö1
+W	java:S1253"<This block of commented-out lines of code should be removed.(üƒŞh8»ŒÒ¥Ö1
